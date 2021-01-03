@@ -1,0 +1,8 @@
+com\kls\in\DAOInterface\UserDAOInterface.class
+com\kls\in\configuration\AppConfig.class
+com\kls\in\DAOImpl\UserDAOImpl.class
+com\kls\in\configuration\DataBaseProp.class
+com\kls\in\configuration\AppInitializer.class
+com\kls\in\crossdomain\CORSFilter.class
+com\kls\in\model\UserDetails.class
+com\kls\in\mainprocess\MainEngine.class
